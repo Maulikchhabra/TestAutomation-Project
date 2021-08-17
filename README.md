@@ -1,6 +1,6 @@
-# Test Automation Project: Pepperfry.com QAT
+# Test Automation Project: [Pepperfry.com](https://www.pepperfry.com/) QAT
 
-A basic test automation project on pepperfry.com where functionalities such as:
+A basic test automation project on [pepperfry.com](https://www.pepperfry.com/) where functionalities such as:
 
 - Login/ Register
 - Search for product
